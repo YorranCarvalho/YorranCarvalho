@@ -2,7 +2,8 @@
 ### My name is Yorran Carvalho.
 
 ### Ferramentas de Tecnologias:
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 
 <!--
 **YorranCarvalho/YorranCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
