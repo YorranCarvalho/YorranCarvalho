@@ -1,5 +1,5 @@
 ## Hi there, Welcome to my github profile
-### My name is Yorran Carvalho.
+### My name is Yorran Carvalho. I'm a Front-End Developer
 
 
 
