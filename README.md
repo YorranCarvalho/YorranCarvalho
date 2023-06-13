@@ -2,7 +2,8 @@
 ### My name is Yorran Carvalho.
 
 ### Ferramentas de Tecnologias:
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<imag src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40"/>
+          
           
 
 <!--
