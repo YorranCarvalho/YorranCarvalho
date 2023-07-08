@@ -9,7 +9,7 @@
 
 
 ### I'm Learning:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="60" height="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" width="60" height="60" /> 
           
 
 <!--
